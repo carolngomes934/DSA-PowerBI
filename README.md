@@ -9,7 +9,8 @@ Ao longo dos projetos, o nível de complexidade evolui gradualmente — partindo
 
 Cada pasta contém:
 - O arquivo `.pbix` do projeto
-- Prints/PDF do dashboard
+- PDF do dashboard
+- Arquivo do dataset/fonte de dados (Excel/CSV)
 - Um `README.md` com a descrição detalhada do projeto (objetivo, análises, insights e técnicas utilizadas)
 
 ## 🗂️ Projetos
