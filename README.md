@@ -1,6 +1,6 @@
 # 📊 Portfólio de Projetos - Power BI
 
-[![Certificado](https://img.shields.io/badge/Certificado-Data%20Science%20Academy-blue)](./certificado/certificado-dsa-powerbi.pdf)
+[![Certificado](https://img.shields.io/badge/Certificado-ver%20PDF-blue)](./certificado/certificado-dsa-powerbi.pdf) [![Curso](https://img.shields.io/badge/Curso-Data%20Science%20Academy-orange)](https://www.datascienceacademy.com.br/course/microsoft-power-bi-para-business-intelligence-e-data-science)
 
 ## Sobre este portfólio
 Este repositório reúne 6 mini projetos desenvolvidos durante o curso **Microsoft Power BI Para Business Intelligence e Data Science**, da **Data Science Academy** (carga horária de 72h, concluído em 11/09/2026), aplicando análise de dados e criação de dashboards em **diferentes contextos de negócio**: marketing, vendas, recursos humanos, logística, finanças e mercado financeiro.
