@@ -30,5 +30,4 @@ O relatório é dividido em 4 páginas:
 - Gráficos de dispersão, colunas e tabelas cruzadas (matriz)
 - Análise multi-página com storytelling (visão geral → comportamento → campanhas → canais de venda)
 
-## Prints
-> Adicione aqui as imagens do dashboard exportadas do Power BI (ex: `![Visão Cliente](./imagens/visao-cliente.png)`)
+
